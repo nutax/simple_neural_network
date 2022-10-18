@@ -12,4 +12,4 @@ To statically define the memory needed
 2. Haven't tested multilayers enough.
 
 ## Recommended reading
-- [Simple neural network implementation in C](https://medium.com/towards-data-science/simple-neural-network-implementation-in-c-663f51447547) by Santiago Becerra.
+- [Simple neural network implementation in C](https://medium.com/towards-data-science/simple-neural-network-implementation-in-c-663f51447547) by Santiago Becerra
