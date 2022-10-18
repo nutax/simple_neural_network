@@ -74,7 +74,6 @@ unsigned nidx[LAYERS]; // layer -> neuron index
 unsigned widx[LAYERS]; // layer -> weight index
 float_t weight[WEIGHTS_SPACE]; //weight index -> weight
 float_t output[NEURONS]; // neuron index -> neuron output
-float_t error[NEURONS]; // neuron index -> neuron error
 float_t delta[NEURONS]; // neuron index -> neuron delta
 
 std::function<float_t(float_t)> const act;
