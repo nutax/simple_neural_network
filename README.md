@@ -1,7 +1,7 @@
 # simple_neural_network
 Simple neural network with modern C++ and metaprogramming
 
-## For who?
+## Who this is for?
 Students
 
 ## Why metaprogramming?
