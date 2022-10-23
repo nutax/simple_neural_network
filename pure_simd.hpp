@@ -1,6 +1,9 @@
 #ifndef PURE_SIMD_H
 #define PURE_SIMD_H
 
+// Pure SIMD by eatingtomatoes: Simple C++17 metaprogramming tools to unroll loops
+// https://github.com/eatingtomatoes/pure_simd
+
 /*
 BSD 3-Clause License
 
